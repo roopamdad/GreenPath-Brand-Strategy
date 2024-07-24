@@ -1,0 +1,11 @@
+CustomerID,ProductCategory,Interest,SatisfactionLevel,Feedback
+1,Kitchen,Zero-Waste,High,"Love the zero-waste options!"
+2,Cleaning,Reusable,Medium,"Good products, but could be more durable."
+3,Kitchen,Zero-Waste,High,"Switched to zero-waste and very happy."
+4,Bathroom,Organic,Low,"Organic products are too expensive."
+5,Kitchen,Zero-Waste,High,"Zero-waste kitchen products are fantastic!"
+6,Cleaning,Reusable,Medium,"Reusable products are okay, not great."
+7,Bathroom,Organic,Medium,"Organic products are decent but pricey."
+8,Kitchen,Zero-Waste,High,"Excellent zero-waste products for kitchen."
+9,Cleaning,Reusable,Low,"Reusable products break easily."
+10,Kitchen,Zero-Waste,High,"Zero-waste products are the best."
